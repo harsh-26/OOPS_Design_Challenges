@@ -1,0 +1,16 @@
+# Visual Studio files
+.vs/
+.vscode/launch.json
+.vscode/settings.json
+*.code-workspace
+bin
+obj
+internal-nlog.txt
+# code coverage
+coveragereport
+TestResults
+coverage.cobertura.xml
+*.csproj.user
+
+# deployment
+out
